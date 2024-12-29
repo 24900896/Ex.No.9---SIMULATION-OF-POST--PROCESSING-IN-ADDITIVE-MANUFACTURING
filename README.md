@@ -1,6 +1,4 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
-
-### DATE: 
+# Ex- SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -34,20 +32,23 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![image](https://github.com/user-attachments/assets/e8fe3408-37b2-4962-b55f-70a6e4118b49)
+![image](https://github.com/user-attachments/assets/097c4b37-b45a-4184-a139-ffc775658021)
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![image](https://github.com/user-attachments/assets/1bf1da26-6a5c-49d3-9755-7e49c9c1eaa8)
+![image](https://github.com/user-attachments/assets/c34489e4-0808-43ef-b448-1554794c334a)
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![image](https://github.com/user-attachments/assets/5707760f-ae20-4f72-8632-46ed6bbac394)
+![image](https://github.com/user-attachments/assets/f8ffa022-c702-482a-8c3c-d032672bfeff)
 
 ## Output:
+![image](https://github.com/user-attachments/assets/00ffa2bb-6982-46b1-b1a7-914fd3678b2e)
+![image](https://github.com/user-attachments/assets/31aa1fb3-fd38-4369-9fd7-11451557dec2)
+![image](https://github.com/user-attachments/assets/2f830448-162b-4454-bd1b-0d83b5da5c2e)
 
-### Name:
+### Name:Sandeep
 ### Register Number:
 
 ## Result: 
